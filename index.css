@@ -8,6 +8,12 @@ body
     {
         height: 500px;
         width: 500px;
+        background-color: blue;
+    }
+    .div2{
+        height: 150px;
+        width: 500px;
         background-color: black;
+        margin-top: 50px;
     }
 }
